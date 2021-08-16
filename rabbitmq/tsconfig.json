@@ -1,0 +1,25 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"module": "ESNext",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"esModuleInterop": true,
+		"declaration": true,
+		"sourceMap": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"allowUnreachableCode": false,
+		"alwaysStrict": true,
+		"noEmitOnError": true,
+		"strictNullChecks": true,
+		"strictFunctionTypes": true,
+		"strict": true,
+		"noImplicitOverride": true,
+        "outDir": "dist"
+	},
+	"exclude": [
+		"node_modules",
+		"dist"
+	]
+}
